@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="24px" height="25px" viewBox="0 0 24 25" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="filter_1">
+      <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0" />
+    </filter>
+  </defs>
+  <g id="linkedin" filter="url(#filter_1)">
+    <path d="M12 2C17.514 2 22 6.486 22 12C22 17.514 17.514 22 12 22C6.486 22 2 17.514 2 12C2 6.486 6.486 2 12 2L12 2ZM12 0C5.373 0 0 5.373 0 12C0 18.627 5.373 24 12 24C18.627 24 24 18.627 24 12C24 5.373 18.627 0 12 0L12 0ZM10 8C10 8.557 9.553 9.008 9 9.008C8.447 9.008 8 8.558 8 8C8 7.443 8.447 6.992 9 6.992C9.553 6.992 10 7.444 10 8L10 8ZM10 10L8 10L8 16L10 16L10 10L10 10ZM13 10L11 10L11 16L13 16L13 13.139C13 11.417 15.002 11.258 15.002 13.139L15.002 16L17 16L17 12.641C17 9.357 13.872 9.477 13 11.093L13 10L13 10Z" id="Shape" fill="#000000" fill-rule="evenodd" stroke="none" />
+  </g>
+</svg>
