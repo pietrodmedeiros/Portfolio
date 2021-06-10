@@ -147,6 +147,26 @@ body {
     border-radius: 25px;
     margin: 5px 0 10px;
 }
+
+
+/*==========Lam Card==========*/
+
+.bulb_card {
+    margin-bottom: 50px;
+}
+
+#on, #off {
+    padding: 5px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    background-color: #B6D0F2;
+    cursor: pointer;
+    height: 50px;
+    width: 70px;
+    margin-top: 150px;
+}
+
 /*==========icones midias=========*/
 
 .social-media {
