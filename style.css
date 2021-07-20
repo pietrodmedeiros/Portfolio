@@ -142,8 +142,8 @@ body {
 }
 
 #img-card {
-    max-width: 200px;
-    max-height: 200px;
+    width: 200px;
+    mheight: 200px;
     border-radius: 25px;
     margin: 5px 0 10px;
 }
