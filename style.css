@@ -197,6 +197,15 @@ body {
     box-shadow: 0 0 20px #B6D0F2;
 }
 
+#icon2 {
+    transform: scale(1.5);
+    transition: 0.5s;
+}
+
+#icon2:hover {
+    transform: scale(2);
+}
+
 .findme {
     text-align: center;
     color: #011126;
