@@ -1,12 +1,20 @@
 * {
-    
     margin: 0;
     padding: 0;
     font-family: 'Varela Round', sans-serif;
 }
 
-body {
+#body {
     background-color: #496D8C;
+    width: 65%;
+    min-width: 360px
+}
+body {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
 }
 
 /*==========Header=========*/
@@ -21,7 +29,7 @@ body {
     text-align: center;
     font-size: 50px;
     color: #011126;
-    margin-bottom: 150px
+    margin-bottom: 50px
 }
 
 .skills {
@@ -40,7 +48,7 @@ body {
     box-shadow: 0 0 20px #B6D0F2;
     border-radius: 200px;
     margin-bottom: 20px;
-    margin-top: -150px;
+    margin-top: -210px;
 }
 
 #foto:hover {
@@ -62,6 +70,10 @@ body {
     color: #011126;
 }
 
+#about {
+    margin-left: 100px;
+    margin-right: 100px;
+}
 
 .icons2{
     background-color: #84A4BF;
